@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Gene_Regulatory_NW_id"
+  site-url: "https://maud73.github.io/Gene_Regulatory_NW_id"
+  description: "GenReg"
+  repo-branch: main
+  repo-url: "https://github.com/maud73/Gene_Regulatory_NW_id"
